@@ -1,4 +1,6 @@
 # React Admin Dashboard
+Deploy by [Netlify](https://www.netlify.com/), see https://whimsical-dashboard-7e8685.netlify.app/
+
 ![](./imgs/React-App-Full.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
